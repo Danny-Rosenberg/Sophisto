@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+  
+{% block content %}
+  <h2>About</h2>
+  <p>This is an About page for our web application, Sophisto. The goal of our application is to take in human-readable text, and return a graphical display that gives the user some insight about the word origins in the text, ie a breakdown of work origins or a 'sophistication' score based on the breakdown of a text's word origins. This project was started at the University of Pennsylvania's PennApps hackathon in spring of 2017 and its group members are Daniel Rosenberg, Ying (Eddie) Tsai, and Joseph Haymaker.
+.</p>
+{% endblock %}
